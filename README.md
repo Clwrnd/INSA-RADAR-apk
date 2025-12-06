@@ -3,4 +3,8 @@ Vous trouverez ici le fichier apk nécéssaire à l'installation de l'applicatio
 
 Ensuite il suffira simplement de l'exécuter (en appuyant dessus quand vous l'aurez téléchargé).
 
+Update:
+
+Pour la mise à jour il faut désinstaller l'ancienne version en amont.
+
 **Lien vers les codes sources:** https://github.com/Lypris/INSA_Radar
